@@ -42,10 +42,10 @@ Local $iniFile = @ScriptDir & "\autorun_for_all_infomonitors_settings.ini"
 Local $generalSection = "general"
 Local $mailSection = "mail"
 
-Local $server_backup = "172.16.6.6"
-Local $login_backup = "autorun_for_all_monitors@nnkk.budzdorov.su"
-Local $password_backup = "giodxalf"
-Local $to_backup = "nn-admin@nnkk.budzdorov.su"
+Local $server_backup = "_____"
+Local $login_backup = "____@______"
+Local $password_backup = "_______"
+Local $to_backup = "_____@_____"
 Local $send_email_backup = "1"
 #EndRegion
 
