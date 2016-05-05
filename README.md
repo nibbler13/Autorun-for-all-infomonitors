@@ -1,0 +1,1 @@
+# Autorun-for-all-infomonitors
